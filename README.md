@@ -97,9 +97,9 @@ npm run build
 
 **Endereço**: Rua Carolina Fonseca, 533 - Vila Santana, São Paulo - SP, 08230-030
 
-**Telefone**: (11) 99999-9999
+**Telefone**: (13) 99677-8840
 
-**Horário de Funcionamento**: Segunda a Sábado, 11:00 às 22:00
+**Horário de Funcionamento**: Segunda a Sábado, 09:00 às 00:00
 
 ## 🎯 Eventos Especiais
 
@@ -110,7 +110,7 @@ npm run build
 
 ## 📧 Contato
 
-Para dúvidas ou sugestões sobre o projeto, entre em contato através do WhatsApp: (11) 99999-9999
+Para dúvidas ou sugestões sobre o projeto, entre em contato através do WhatsApp: (13) 99677-8840
 
 ## 📄 Licença
 
